@@ -1,2 +1,0 @@
-# XMR-STAK
-Projeto
